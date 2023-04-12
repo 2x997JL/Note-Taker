@@ -15,8 +15,10 @@ To install the necessary dependencies for the application, use the command: "npm
 After deploying the application with Heroku, you can easily add a new note to the list by entering the note title and text on the notes page, then clicking on the save icon located in the top-right corner. Removing a note is also simple - just click on the trashcan icon next to the desired note on the list.
 
 # Deployed Link
+https://note-taker-rr.herokuapp.com/notes
 
 # Mock up
+![CHEESE!](../../OneDrive/Pictures/note-taker.png)
 
 # License 
 This application is licensed by the MIT license.
