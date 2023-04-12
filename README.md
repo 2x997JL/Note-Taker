@@ -1,5 +1,3 @@
-# Note Taker 
-
 # Description 
 With the help of Express.js, the application facilitates the storage and retrieval of notes for organizational purposes. Users can write and save their notes, which are stored in a JSON file on the back end.
 
@@ -18,7 +16,7 @@ After deploying the application with Heroku, you can easily add a new note to th
 https://note-taker-rr.herokuapp.com/notes
 
 # Mock up
-![CHEESE!](../../OneDrive/Pictures/note-taker.png)
+![CHEESE](../../OneDrive/Pictures/note-taker.png)
 
 # License 
 This application is licensed by the MIT license.
