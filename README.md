@@ -2,9 +2,9 @@
 With the help of Express.js, the application facilitates the storage and retrieval of notes for organizational purposes. Users can write and save their notes, which are stored in a JSON file on the back end.
 
 # Table of Contents 
-Installation 
-Usage
-License 
+    Installation 
+    Usage
+    License 
 
 # Installation 
 To install the necessary dependencies for the application, use the command: "npm install". This command will install both the express and uniqid packages.
