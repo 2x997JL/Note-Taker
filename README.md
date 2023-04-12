@@ -16,7 +16,7 @@ After deploying the application with Heroku, you can easily add a new note to th
 https://note-taker-rr.herokuapp.com/notes
 
 # Mock up
-![CHEESE](../../OneDrive/Pictures/note-taker.png)
+![CHEESE!](note-taker.png)
 
 # License 
 This application is licensed by the MIT license.
